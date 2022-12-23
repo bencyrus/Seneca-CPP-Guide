@@ -1,5 +1,8 @@
 # A Lazy guy's guide for studying computer programming at Seneca
 
+##### Before we begine, ask anything you wish in the Discussions section on top or input your ideas so others can upvote them!
+<hr/>
+
 First of all!!!!
 >Break it down before you even begin
 
