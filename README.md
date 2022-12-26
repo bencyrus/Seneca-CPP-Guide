@@ -152,5 +152,37 @@ My Strategy would be:
 3. Read the course notes
 #### ** ORDER matters! ** 
 
+<hr/>
+
+## DSA456:
+
+[Link to one of the best DSA Courses I could fine on Udemy for DSA456 students](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
+In this course, you probably need your prof because school goes a little more in depth than these courses. I would get this course and study it in the order I will mention in a bit, during the term or preferebly even before it starts. Just keep in mind it is intended to be studied BEFORE you attend the class on the subject. It helps you inderstand what the prof says and save a ton of time!
+This course can be overwhelming, but almost all of your job interview questions will be from this course. So, better take it seriously and practice as much as you can.
+
+The course sections are unrelated so they can be studied in any order. The following is the order that is closest to school curriculum but also makes it easier to understand what you do and why.
+Section 1
+Section 3
+Section 12
+Section 13
+Section 5
+Section 6
+Section 7
+Section 8
+Section 9
+Section 10
+Section 11
+Section 14
+
+AGAIN! It best helps before attending class on the subject. If you fall behind, it is super difficult to get back.
+
+Extra Tips: 
+
+- The assignments are 30%! The first assignment is the easiest even though it will feel hard. Do them as well as you can.
+- Midterm has 2 significant parts. time and space analysis and LinkedLists. Make suer you are comfortable with the two.
+- First half of the course is easier to understand but will feel overwhelming because it is new. Just check the course and take advantage of it so you are not as stressed in the second half.
+
+My professor was Catherine Leung. She is a really nice person. her teaching is ok, but she really cares and even spent 1 full hour out of the class time to explain me something and help me with my assignment. BUT SHE GRADES VERY HARD! Beware of that. I think I would still pick her and just put a little more effort into the course. [This is a link to her videos on Heaps, Trees and Linked Lists](https://web.microsoftstream.com/user/943bf615-04e7-4c4a-8771-7b106688b6fe)
 
 
