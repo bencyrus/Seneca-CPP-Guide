@@ -162,18 +162,18 @@ In this course, you probably need your prof because school goes a little more in
 This course can be overwhelming, but almost all of your job interview questions will be from this course. So, better take it seriously and practice as much as you can.
 
 The course sections are unrelated so they can be studied in any order. The following is the order that is closest to school curriculum but also makes it easier to understand what you do and why.
-Section 1
-Section 3
-Section 12
-Section 13
-Section 5
-Section 6
-Section 7
-Section 8
-Section 9
-Section 10
-Section 11
-Section 14
+- Section 1
+- Section 3
+- Section 12
+- Section 13
+- Section 5
+- Section 6
+- Section 7
+- Section 8
+- Section 9
+- Section 10
+- Section 11
+- Section 14
 
 AGAIN! It best helps before attending class on the subject. If you fall behind, it is super difficult to get back.
 
