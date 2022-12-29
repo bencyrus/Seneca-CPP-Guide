@@ -130,6 +130,7 @@ Extra Tips:
 ## OOP244:
 
 [Link to the Best C++ Programming Course on Udemy for OOP244 and OOP345 students](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+[The same course for free on Youtube (Found Later)](https://www.youtube.com/playlist?list=PLJefabc5iiBPs3OvuLZKqRQAcYJiGQ55g)
 
 **Exactly like IPC!!**
 What you must do is forget you even have a prof for this course. Buy the Udemy course and study ahead of the class. Don’t worry if you feel dumbfounded or feel like you don’t understand anything! That’s normal. When you learn it from Udemy first (which goes into more depth than your prof) then when the prof says, you totally get it! This way you spend 2 hours a week but I promise it saves you more than 10 hours a week when doing the workshops and final project!
