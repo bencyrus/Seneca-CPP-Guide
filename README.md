@@ -188,3 +188,20 @@ Extra Tips:
 My professor was Catherine Leung. She is a really nice person. her teaching is ok, but she really cares and even spent 1 full hour out of the class time to explain me something and help me with my assignment. BUT SHE GRADES VERY HARD! Beware of that. I think I would still pick her and just put a little more effort into the course. [This is a link to her videos on Heaps, Trees and Linked Lists](https://web.microsoftstream.com/user/943bf615-04e7-4c4a-8771-7b106688b6fe)
 
 
+<hr/>
+
+## PMC115:
+
+[Link to one of the best DSA Courses I could fine on Udemy for PMC115 students](https://www.udemy.com/course/pmp-pmbok6-35-pdus)
+
+I have to say I had a hard time with this course. I could not focus at all and could not understand what my prof said. She kept saying you have to read the textbook and that is 600 pages!!! I am not going to do that. Even if I did, I am terrible at remembering stuff and this course has thousands of terms to remember.
+The upside is that 50-100% of the midterm and final, depending on who your prof is, is scenario based. They give you cases and ask you to identify things or write what you would do basically. So this way, you have mroe freedom but you have to know things.
+
+PMC is based on PMBOK book. Even if you don't attend a single class (I did not attend after the second week), you can learn the material and pass.
+The Udemy course I have posted is step by step, exactly what your prof would teach but in a more understandable manner. I found the instructor's explainations very clear and can always stop and watch again.
+
+My prof was Naila Aaijaz. She is alright. Isn't a hard grader but she takes this course very seriously and is not very good at organizing things in a clear way and post deadlines. If you take classes with her, she will tell you she takes attendence. Don't worry it is not mandatory and you will not loose anything if you don't show up.
+
+# Caution
+- When grouping opens, choose your group veryyy fast! You don't wanna end uop with annoying people :/
+
