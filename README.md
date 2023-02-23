@@ -192,7 +192,9 @@ My professor was Catherine Leung. She is a really nice person. her teaching is o
 
 ## PMC115:
 
-[Link to one of the best DSA Courses I could fine on Udemy for PMC115 students](https://www.udemy.com/course/pmp-pmbok6-35-pdus)
+[Link to one of the best courses I could find on Udemy for PMC115 students](https://www.udemy.com/course/pmp-pmbok6-35-pdus)
+
+[Link to one of the best courses I could find on YouYube for PMC115 students](https://www.youtube.com/playlist?list=PLEWFSKHjyrwz_UKPl-jeSan5NU7RH3KRD)
 
 I have to say I had a hard time with this course. I could not focus at all and could not understand what my prof said. She kept saying you have to read the textbook and that is 600 pages!!! I am not going to do that. Even if I did, I am terrible at remembering stuff and this course has thousands of terms to remember.
 The upside is that 50-100% of the midterm and final, depending on who your prof is, is scenario based. They give you cases and ask you to identify things or write what you would do basically. So this way, you have mroe freedom but you have to know things.
